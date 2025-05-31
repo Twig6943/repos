@@ -7,4 +7,4 @@ Homepage=https://geforcenow.com
 Icon=https://www.svgrepo.com/show/303630/nvidia-logo.svg
 RuntimeRepo=https://flathub.org/repo/flathub.flatpakrepo
 IsRuntime=false
-GPGKey=Placeholder
+GpgVerify=false
